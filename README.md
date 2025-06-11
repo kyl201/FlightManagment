@@ -2,7 +2,7 @@
 
 This program: Create tables , populate the tables with sample data and interact with the database through the menu.
 
-## Running Locally
+## Running Locally or your own codespace
 
 If you want to run the program locally or your own codespace , you will need to install ```tabulate```
 
