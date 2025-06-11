@@ -17,7 +17,11 @@ python main.py
 
 Enter your choice: 1
 ```
-1. On your first run, you should enter: 1.It creates all the necessary tables and populate them with sample data.
+
+```
+ 1
+```
+1. On your first run, you should enter: 1. It creates all the necessary tables and populate them with sample data.
 
  
 2.After this, you can proceed with other options.
