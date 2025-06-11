@@ -15,7 +15,6 @@ pip install tabulate
 ```
 python main.py
 
-Enter your choice: 1
 ```
 
 ```
